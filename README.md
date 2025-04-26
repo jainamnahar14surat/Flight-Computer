@@ -3,7 +3,7 @@
 A compact, custom-designed PCB (Printed Circuit Board) for a Flight Computer, aimed at aerospace applications like model rockets, UAVs, and experimental aircrafts. The design integrates essential sensors and microcontroller connections to provide reliable flight data acquisition and processing.
 
 ## Overview
-The Flight Computer is powered by an STM32F405RG microcontroller, enabling real-time data acquisition from multiple environmental and motion sensors. It also supports wireless data transmission using the NRF24L01-PA radio module, and precise location tracking through the NEO-M9N GPS receiver. This project is currently at the prototype stage, aimed at validating the PCB layout, hardware interfacing, and initial sensor readings.
+The Flight Computer is powered by an STM32F405RG microcontroller, enabling real-time data acquisition from multiple environmental and motion sensors. It also supports wireless data transmission using the NRF24L01+PA radio module, and precise location tracking through the NEO-M9N GPS receiver. This project is currently at the prototype stage, aimed at validating the PCB layout, hardware interfacing, and initial sensor readings.
 
 ## Major Components
 
@@ -14,7 +14,7 @@ The Flight Computer is powered by an STM32F405RG microcontroller, enabling real-
 | **Si7020-A20** | Humidity Sensor with I²C Interface |
 | **MPU6050** | 6-axis IMU (Accelerometer + Gyroscope) |
 | **NEO-M9N** | High-Precision GPS Module |
-| **NRF24L01-PA** | Long-Range Wireless Radio Module |
+| **NRF24L01+PA** | Long-Range Wireless Radio Module |
 
 ## Features
 
@@ -83,7 +83,6 @@ Handles external data transmission and navigation data retrieval.
 - Automatic recovery and emergency shutdown systems
 
 ## License
-This project is licensed under the MIT License.
-See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the [MIT License](LICENSE).
 
 
