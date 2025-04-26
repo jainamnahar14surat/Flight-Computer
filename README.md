@@ -63,7 +63,7 @@ Handles external data transmission and navigation data retrieval.
 
 | Folder/File	| Description |
 |:---|:---|
-| **assets**	| Documentation of Components |
+| **assets**	| Datasheet of Components |
 | **hardware_design/** |	Files related to PCB Design |
 | **img/** |	PCB Image |
 | **README.md** |	Project documentation |
