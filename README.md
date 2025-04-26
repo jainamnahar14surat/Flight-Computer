@@ -63,9 +63,9 @@ Handles external data transmission and navigation data retrieval.
 
 | Folder/File	| Description |
 |:---|:---|
-| **Flight_Computer.net**	| Netlist file describing PCB connections |
-| **Schematics/** |	Electrical schematics (to be added) |
-| **Gerber_Files/** |	PCB fabrication files (optional for production) |
+| **assets**	| Documentation of Components |
+| **hardware_design/** |	Files related to PCB Design |
+| **img/** |	PCB Image |
 | **README.md** |	Project documentation |
 
 ## Applications
