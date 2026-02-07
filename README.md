@@ -85,4 +85,11 @@ Handles external data transmission and navigation data retrieval.
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
+## Contact
 
+Feel free to reach out for collaborations or just a friendly hello!
+
+-   **Email:** naharjainam91@gmail.com
+-   **LinkedIn:** https://www.linkedin.com/in/jainam-nahar-280292253
+-   **GitHub:** https://github.com/jainamnahar14surat
+-   **Website** https://jaina-portfolio.netlify.app/
